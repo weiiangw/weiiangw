@@ -1,4 +1,4 @@
-### Hi there 👋
+## プラボックス（P、OP、OPK、PLシリーズ） | カタログビュー e 👋
 
 <!--
 **weiiangw/weiiangw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
